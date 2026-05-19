@@ -18,7 +18,7 @@ Built entirely in Tableau with SQL and Excel preprocessing, it provides:
 
 ## Live Dashboard
 
-[View on Tableau Public →](https://public.tableau.com) *(replace with your actual link)*
+[View on Tableau Public →](https://public.tableau.com/app/profile/govind.singh4781/viz/Book1_17606363485410/HRANALYTICSDASHBOARD) 
 
 ---
 
